@@ -1,0 +1,15 @@
+{
+  "name": "node-demoapi",
+  "version": "1.0.0",
+  "description": "Demo api for autonginx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Zeller",
+  "license": "MIT",
+  "dependencies": {
+    "consul": "^0.18.0",
+    "hapi": "^10.0.0"
+  }
+}
